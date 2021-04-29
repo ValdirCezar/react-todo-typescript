@@ -1,0 +1,9 @@
+.todo-list {
+  width: 60%;
+  margin: 1rem auto 0 auto;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(77, 74, 74);
+}
