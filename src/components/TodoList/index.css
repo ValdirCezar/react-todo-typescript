@@ -1,10 +1,23 @@
+h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-weight: bolder;
+}
+
 .todo-list {
   width: 60%;
   margin: 1rem auto 0 auto;
 }
 
-h1 {
-  text-align: center;
-  color: rgb(77, 74, 74);
-  margin-bottom: 2rem;
+#thId {
+  width: 2rem;
+}
+
+#thPriority {
+  width: 5rem;
+}
+
+#thAction {
+  text-align: end;
+  width: 3rem;
 }

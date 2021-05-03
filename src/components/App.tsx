@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Footer from './Footer';
 import Header from './Header'
-import TodoList from './TodoList/TodoList';
+import TodoList from './TodoList';
 
 const App = () => {
   return (
