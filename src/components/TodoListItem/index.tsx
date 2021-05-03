@@ -9,7 +9,7 @@ interface TodoListItemProps {
 const TodoListItem = (props: TodoListItemProps) => {
 
   const handleChange = () => {
-
+    
   }
 
   return (
