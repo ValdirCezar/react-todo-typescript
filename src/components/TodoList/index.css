@@ -1,11 +1,11 @@
 h1 {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   font-weight: bolder;
 }
 
 .todo-list {
-  width: 60%;
+  width: 80%;
   margin: 1rem auto 0 auto;
 }
 
